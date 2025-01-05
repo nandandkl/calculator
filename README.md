@@ -1,21 +1,21 @@
 # Overview
 This is a simple, responsive web-based calculator. It features a modern design and is capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-# Features
+# ✨Features
 1. Basic arithmetic operations: addition, subtraction, multiplication, and division.
 2. Responsive layout for various screen sizes.
 3. Modern design with custom fonts and colors.
 4. Error handling for invalid operations.
-# Live Demo
+# 🌐Live Demo
 You can run the calculator by opening link (https://nandandklcalculator.netlify.app/) file in your favorite browser.
 
-# Project Structure
+# 🛠️Project Structure
 The project consists of three main files:
 
 1. HTML (calcindex.html): The structure of the calculator.
 2. CSS (calcstyle.css): Styles for the calculator.
 3. JavaScript (calcscript.js): Logic for the calculator's functionality.
-# How to Use
+# 📋How to Use
 1. Clone or download this repository.
 2. Open the calcindex.html file in a web browser.
 3. Use the number buttons and operation keys to perform calculations.
