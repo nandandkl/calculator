@@ -2,10 +2,10 @@
 This is a simple, responsive web-based calculator. It features a modern design and is capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 # Features
-1. Basic arithmetic operations: addition, subtraction, multiplication, and division.<br>
-2. Responsive layout for various screen sizes.<br>
-Modern design with custom fonts and colors.<br>
-Error handling for invalid operations.<br>
+1. Basic arithmetic operations: addition, subtraction, multiplication, and division.
+2. Responsive layout for various screen sizes.
+3. Modern design with custom fonts and colors.
+4. Error handling for invalid operations.
 # Live Demo
 You can run the calculator by opening link (https://nandandklcalculator.netlify.app/) file in your favorite browser.
 
