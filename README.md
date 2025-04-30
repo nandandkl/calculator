@@ -12,7 +12,7 @@ You can run the calculator by opening link (https://nandandklcalculator.netlify.
 # 🛠️ Project Structure
 The project consists of three main files:
 
-1. HTML (calcindex.html): The structure of the calculator.
+1. HTML (index.html): The structure of the calculator.
 2. CSS (calcstyle.css): Styles for the calculator.
 3. JavaScript (calcscript.js): Logic for the calculator's functionality.
    
