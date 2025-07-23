@@ -7,7 +7,7 @@ This is a simple, responsive web-based calculator. It features a modern design a
 3. Modern design with custom fonts and colors.
 4. Error handling for invalid operations.
 # 🌐 Live Demo
-You can run the calculator by opening link (https://nandandklcalculator.netlify.app/) in your favorite browser.
+You can run the calculator by opening link [nandandklcalculator.netlify.app](https://nandandklcalculator.netlify.app/) in your favorite browser.
 
 # 🛠️ Project Structure
 The project consists of three main files:
