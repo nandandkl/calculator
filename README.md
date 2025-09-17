@@ -18,7 +18,7 @@ The project consists of three main files:
    
 # 📋 How to Use
 1. Clone or download this repository.
-2. Open the calcindex.html file in a web browser.
+2. Open the index.html file in a web browser.
 3. Use the number buttons and operation keys to perform calculations.
 4. Click "Calculate" to see the result.
 
